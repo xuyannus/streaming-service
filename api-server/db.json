@@ -1,0 +1,21 @@
+{
+  "streams": [
+    {
+      "title": "this is a title",
+      "description": "this stream is great",
+      "id": 1
+    },
+    {
+      "title": "B",
+      "description": "changed the text again 2",
+      "userId": "106490586777168291850",
+      "id": 8
+    },
+    {
+      "title": "this is a great stream",
+      "description": "it will be great to subscribe",
+      "userId": "106490586777168291850",
+      "id": 9
+    }
+  ]
+}
